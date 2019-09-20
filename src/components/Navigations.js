@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Tab, Menu, Icon } from "semantic-ui-react";
+import { Menu, Icon } from "semantic-ui-react";
 import { NavLink } from "react-router-dom";
 
 export default class MenuBasic extends Component {
